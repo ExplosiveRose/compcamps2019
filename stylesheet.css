@@ -1,74 +1,12 @@
 body{
-  background-image: url("bluebackground.jpg");
+  background-image: url("badger.gif");
   font-family: 'Poppins', sans-serif;
-}
-
-.title{
-  color: white;
-  text-align: center;
-  font-size: 50px;
-  margin-left: 100px;
-  margin-right: 100px;
-}
-
-.paragraph1{
-  color: white;
-  text-align: center;
-  font-size: 35px;
-  margin-left: 100px;
-  margin-right: 100px;
 }
 
 .paragraph2{
   color: white;
   text-align: center;
   font-size: 30px;
-  margin-left: 100px;
-  margin-right: 100px;
-}
-
-.paragraph3{
-  color: white;
-  text-align: center;
-  font-size: 30px;
-  margin-left: 100px;
-  margin-right: 100px;
-}
-
-.headertext{
-  color: white;
-  font-size: 25px;
-}
-
-.img_me{
-  width:400px;
-  display: block;
-  margin: 0 auto;
-  border-radius: 45%;
-}
-
-.hollowknight{
-  width:1100px;
-  display: block;
-  margin: 0 auto;
-}
-
-.zelda{
-  width:1100px;
-  display: block;
-  margin: 0 auto;
-}
-
-.ori{
-  width:1100px;
-  display: block;
-  margin: 0 auto;
-}
-
-.mhw{
-  width:1100px;
-  display: block;
-  margin: 0 auto;
 }
 
 .nav{
