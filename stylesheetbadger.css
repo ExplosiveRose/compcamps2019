@@ -1,0 +1,36 @@
+body{
+  background-image: url("badger.gif");
+  font-family: 'Poppins', sans-serif;
+}
+
+.paragraph2{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.nav{
+  text-align: center;
+  background-image: url("bluebackground2.jpg");
+}
+
+.navbar{
+  list-style-type: none;
+}
+
+.navlink{
+  display: inline;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 25px;
+}
+
+a{
+  text-decoration: underline;
+  color: white;
+}
+
+a:hover{
+  color: #90DBF2;
+  font-size: 28px;
+}
